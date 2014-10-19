@@ -1,7 +1,7 @@
 {
   "name": "iterator-stream",
   "version": "0.0.1",
-  "description": "Convert iterable object to stream",
+  "description": "Turn iterable object into stream",
   "author": "Mau Ka Ming <ahmautom@gmail.com>",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
     "transformation"
   ],
   "license": "MIT",
+  "main": "lib",
   "dependencies": {
     "through": "^2.3.6"
   },
