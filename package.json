@@ -1,0 +1,27 @@
+{
+  "name": "iterator-stream",
+  "version": "0.0.1",
+  "description": "Convert iterable object to stream",
+  "author": "Mau Ka Ming <ahmautom@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ahmautom/iterator-stream.git"
+  },
+  "keywords": [
+    "iterable",
+    "stream",
+    "transformation"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "through": "^2.3.6"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^1.21.5"
+  },
+  "engines": {
+    "node": "~0.10.32",
+    "npm": "~1.4.28"
+  }
+}
